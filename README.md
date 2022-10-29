@@ -8,8 +8,9 @@ library(survminer)
 we read this csv file :CGGA
 Survival analysis of Lung cancer using R: With the help of R inbuild libraries for survival I have ploted survival plobability of different attributes.
 
-http://127.0.0.1:62719/graphics/plot_zoom_png?width=942&height=664
-survival probability
+![survival](https://user-images.githubusercontent.com/110675838/198818997-75507f2a-9e34-47d8-80b8-90f56b47b240.png)
+
+survival probability and analysis of male female at risk
                                               n      event median 0.95LCL 0.95UCL
 IDH_mutation_status=Mutant, Gender=Female    142     60   2633    2118      NA
 IDH_mutation_status=Mutant, Gender=Male      191     98   2048    1680    2832
